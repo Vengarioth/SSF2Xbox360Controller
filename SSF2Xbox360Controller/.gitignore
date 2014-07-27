@@ -1,0 +1,15 @@
+### Projects ###
+
+/Crossroads/*
+/Edge/*
+/EdgeToolset/*
+/Exiled/*
+/Forge/*
+/Kontor/*
+/packages/*
+
+
+### Visual Studio Files ###
+
+#Version specific solution files
+*.suo
